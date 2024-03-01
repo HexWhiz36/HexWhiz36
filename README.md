@@ -10,10 +10,6 @@
 
 ###
 
-<img align="left" height="150" src="https://tenor.com/b0Uy3.gif"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
   <img width="12" />
